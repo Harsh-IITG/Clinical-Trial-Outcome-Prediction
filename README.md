@@ -8,7 +8,7 @@ Predict the completion status ("Completed" or "Not Completed") of clinical trial
 [Try the app on Hugging Face Spaces](https://huggingface.co/spaces/archis99/clinical-trial-prediction)
 
 *Sample Output (screenshot):*
-![Clinical-Trial-Outcome-Prediction](assets/demo_screenshot.jpg)
+![Clinical-Trial-Outcome-Prediction](assets/demo_screenshots.jpg)
 ---
 
 ## Table of Contents
